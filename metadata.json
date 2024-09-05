@@ -1,7 +1,7 @@
 {
   "name": "Kuba", 
   "symbol": "KUBA",
-  "uri": "TOKEN_URI",
+  "uri": "https://raw.githubusercontent.com/usmanliaqat0707/KubaCrypto/main/kuba.json",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
